@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.tox/
+
+# venv
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# RepoPulse local state (the whole point is it writes an index next to your repo)
+.repopulse/
+*.repopulse.db
+*.repopulse.db-*
+
+# Secrets
+.env
+.env.local
+*.pem
+*.key
+
+# Node (for potential future UI)
+node_modules/
+.next/
+out/
+
+# Local scratch / verification artifacts
+design-session/
+pytest-of-evela/
+.tmp-repro/
+_git/
