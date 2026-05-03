@@ -10,7 +10,7 @@ readme = "README.md"
 license = { file = "LICENSE" }
 requires-python = ">=3.11"
 authors = [
-  { name = "Tyler Eveland", email = "j.tyler.eveland@gmail.com" },
+  { name = "evilander" },
 ]
 keywords = ["mcp", "code-search", "retrieval", "rag", "claude-code", "cursor", "llm"]
 classifiers = [
